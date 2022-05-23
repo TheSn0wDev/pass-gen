@@ -1,4 +1,5 @@
-<h1 align="center">Welcome to my portfolio 👋</h1>
+<h1 align="center">Welcome to pass-gen
+  👋</h1>
 <p>
   <a href="https://twitter.com/Sn0wDev__" target="_blank">
     <img alt="Twitter: Sn0wDev__" src="https://img.shields.io/twitter/follow/Sn0wDev__.svg?style=social" />
