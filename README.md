@@ -14,20 +14,19 @@ This tool is a strong password generator. Based on the following image, the leng
 
 ## Technical
 
-I programmed this tool in ruby. This was the first time that I use this language. I used the colorize library to add colors in the terminal.
+I programmed this tool in LUA. This was the first time that I use this language.
 
 ## Install
 
 ```sh
-git clone https://github.com/ModzDev/simple-push
-sudo gem install colorize
+git clone https://github.com/Sn00ww/pass-gen
 ```
 
 ## Usage
 
 ```sh
-sudo chmod +x push.rb
-./push.rb
+make
+./pass-gen
 ```
 
 ## Author
